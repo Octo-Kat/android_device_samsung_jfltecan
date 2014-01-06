@@ -1,1 +1,1 @@
-add_brunch_combo full_jfltecan-userdebug
+add_lunch_combo full_jfltecan-userdebug
